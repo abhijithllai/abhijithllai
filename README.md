@@ -81,12 +81,8 @@ How to reach me: llaiabhijith@gmail.com
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.datacamp.com/blog/a-beginners-guide-to-exploratory-data-analysis" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/brand_python_pandas_logo_icon_157553.png" alt="eda" width="40" height="40"/> 
-  </a>
-  <a href="https://rasa.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/rasa/rasa-icon.svg" alt="chatbot" width="40" height="40"/> 
-  </a>
+
+
 </p>
 <br/>
 Connect with me:
