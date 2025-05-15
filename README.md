@@ -1,4 +1,4 @@
-<div align="center">Hi , I'm <a href="https://your-portfolio-link.com" target="_blank">ABHIJITH</a></div>
+<div align="center">Hi, I'm <a href="https://www.linkedin.com/in/abhijithlin" target="_blank">ABHIJITH</a></div>
 <h3 align="center">A passionate AI Architect & ML Developer</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -19,10 +19,10 @@ I regularly write articles on your-blog-link.com
 
 Ask me about AI, Machine Learning, Data Science, and Python
 
-How to reach me: llaiabhijith@gmail.com 
+How to reach me: llaiabhijith@gmail.com
 
 <br/>
-Languages and Tools:
+  Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -45,6 +45,12 @@ Languages and Tools:
   <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
+  <a href="https://matplotlib.org/" target="_blank"> 
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/> 
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a>
@@ -63,11 +69,36 @@ Languages and Tools:
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.datacamp.com/blog/a-beginners-guide-to-exploratory-data-analysis" target="_blank"> 
+    <img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/brand_python_pandas_logo_icon_157553.png" alt="eda" width="40" height="40"/> 
+  </a>
+  <a href="https://rasa.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/rasa/rasa-icon.svg" alt="chatbot" width="40" height="40"/> 
+  </a>
 </p>
 <br/>
+Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhijithlin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijithlin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/your-instagram" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+</p>
+
+<div align="center">
+  <p>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat.</p>
+</div>
