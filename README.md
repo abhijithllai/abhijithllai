@@ -87,14 +87,15 @@ How to reach me: llaiabhijith@gmail.com
 <br/>
 Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/abhijithlin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijithlin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/abhijithhhhi/?hl=en" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="[https://instagram.com/your-instagram](https://www.instagram.com/abhijithhhhi/?hl=en)" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/abhijithhhhi/?hl=en" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 <div align="center">
   <p>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat.</p>
 </div>
+
